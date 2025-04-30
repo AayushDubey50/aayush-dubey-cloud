@@ -15,7 +15,7 @@
 	},
     "routes": [
         {
-            "pattern": "aayush.dubey.cloud",
+            "pattern": "aayush-dubey-cloud",
             "custom_domain": true
         }
     ]
