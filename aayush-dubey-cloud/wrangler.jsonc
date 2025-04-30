@@ -6,7 +6,7 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "aayush-dubey-cloud",
 	"main": "worker/index.ts",
-	"compatibility_date": "2025-04-30",
+	"compatibility_date": "2025-04-24",
 	"assets": {
 		"not_found_handling": "single-page-application"
 	},
