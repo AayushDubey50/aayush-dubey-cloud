@@ -1,0 +1,98 @@
+{
+  "projectsList": [
+    {
+      "name": "Mailbot Demonstration",
+      "startDate": {
+        "isPresent": false,
+        "month": 8,
+        "year": 2022
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 12,
+        "year": 2022
+      },
+      "technologies": [
+        "ROS",
+        "Gazebo",
+        "RViz"
+      ],
+      "description": "Navigation of a custom robot delivering mail using algorithmic path-planning, under a ROS2 simulation in a Gazebo environment across several worlds",
+      "link": "https://github.com/AayushDubey50/mailbot"
+    },
+    {
+      "name": "Brachiating Gibbon",
+      "startDate": {
+        "isPresent": false,
+        "month": 4,
+        "year": 2021
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 5,
+        "year": 2021
+      },
+      "technologies": [
+        "ROS",
+        "Gazebo",
+        "RViz"
+      ],
+      "description": "ROS manipulation task of gibbon URDF with multiple joints to swing along a branch in order to analyze its energy-efficient motion at constant branch height and branch-branch spacings",
+      "link": ""
+    },
+    {
+      "name": "Dynamic Obstacle Avoidance",
+      "startDate": {
+        "isPresent": false,
+        "month": 8,
+        "year": 2020
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 12,
+        "year": 2020
+      },
+      "technologies": [
+        "Habitat-Sim",
+        "Python"
+      ],
+      "description": "Simulation of moving robot vacuum across A*, RRT, DWA, and APF motion algorithms that minimize colliding with human-controlled agents, using the Habitat-Sim library.",
+      "link": ""
+    },
+    {
+      "name": "Assisted Fast Policy Generation",
+      "startDate": {
+        "isPresent": false,
+        "month": 9,
+        "year": 2020
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 12,
+        "year": 2020
+      },
+      "technologies": [
+        "Python"
+      ],
+      "description": "Boosting a learning agent's performance across video games by combining human-demonstrated mimicry with DDQN to generate higher reward policies and accelerate convergence.",
+      "link": "https://github.com/hillbg/RLBot"
+    },
+    {
+      "name": "Classifier for Galaxy Types",
+      "technologies": [
+        "Mathematica"
+      ],
+      "description": "Small scale ML project.",
+      "link": "https://community.wolfram.com/groups/-/m/t/900332?p_p_auth=FdRIp4pN",
+      "logo": "https://content.wolfram.com/sites/43/2018/12/spikey-wolfram-logo.png"
+    },
+    {
+      "name": "Atlanta Crime Prediction",
+      "technologies": [
+        "Python"
+      ],
+      "description": "Class group project using unsupervised and supervised methods to visualize and predict a crime's severity, factoring location and time of crime in Atlanta, GA.",
+      "link": "https://github.com/sanjeevprasada/AtlantaCrime"
+    }
+  ]
+}

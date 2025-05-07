@@ -1,0 +1,147 @@
+{
+  "name": "Experience",
+  "experiences": [
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 6,
+        "year": 2024
+      },
+      "endDate": {
+        "isPresent": true,
+        "month": 6,
+        "year": 2024
+      },
+      "type": "Volunteer",
+      "location": "Remote",
+      "position": "Ambassador",
+      "company": "Wolfram Research, Inc.",
+      "description": [
+        "Attend at local hackathons as a representative of Wolfram to promote their products",
+        "Mentor hackathon projects by providing assistance to students with available Wolfram tech stack"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 8,
+        "day": 23,
+        "year": 2021
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 1,
+        "day": 26,
+        "year": 2024
+      },
+      "type": "Full Time",
+      "location": "Palo Alto, CA (hybrid)",
+      "position": "Backend Software Engineer (MTS2)",
+      "company": "VMware, Inc.",
+      "description": [
+        "Developed on Aria Automation infrastructure platform for customers to self-service deployed multi-cloud environments",
+        "Enhanced Assembler and Service Broker components on infrastructure with additional template deployment verification",
+        "Assisted on features across new Automation release in promoting version compatibility within Terraform CLI Services",
+        "Provided urgent solutions on high-priority issues by cooperating with customers, including Fortune Global 500 companies"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 5,
+        "year": 2020
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 8,
+        "year": 2020
+      },
+      "type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Site Reliability Engineer Intern",
+      "company": "VMware, Inc.",
+      "description": [
+        "Designed API Monitoring Tool measuring third-party performances for SRE team to identify and diagnose API conflicts"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 5,
+        "year": 2018
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 12,
+        "year": 2018
+      },
+      "type": "Part Time",
+      "location": "West Lafayette, IN",
+      "position": "Undergraduate Research Assistant",
+      "company": "Intelligent Systems and Assistive Technologies Lab",
+      "description": [
+        "Automated MRI-scanned image commands to respective functions triggered by SVM-classified hand gesture recognitions",
+        "Implemented Amazon MTurk form on a LAMP stack storing surveyed responses to identify hand gesture movements"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 5,
+        "year": 2017
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 12,
+        "year": 2017
+      },
+      "type": "Internship",
+      "location": "Palo Alto, CA",
+      "position": "Software Consultant Intern",
+      "company": "VMware, Inc.",
+      "description": [
+        "Deployed Photon OS virtual machine running integration tests for patching and upgrading features of Lifecycle Manager"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 5,
+        "year": 2016
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 12,
+        "year": 2016
+      },
+      "type": "Internship",
+      "location": "West Lafayette, IN",
+      "position": "Software QA Engineer Intern",
+      "company": "Gigamon",
+      "description": [
+        "Programmed CLI to REST API translator in Python to automate network configuration calls of Internet traffic data",
+        "Marketed the translator to sales engineers at Innovation Fair on the impact of its application for Gigamon Visibility App"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
+        "month": 11,
+        "year": 2015
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 10,
+        "year": 2017
+      },
+      "type": "Part Time",
+      "location": "West Lafayette, IN",
+      "position": "Undergraduate Research Assistant",
+      "company": "Character Inventory",
+      "description": [
+        " Developed website that conducts and analyzes survey answers using full-stack programs",
+        "Calculated character strengths and virtues scores for professionals and clients to self-evaluate"
+      ]
+    }
+  ]
+}

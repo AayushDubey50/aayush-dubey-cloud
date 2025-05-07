@@ -1,0 +1,180 @@
+{
+  "skills": [
+    {
+      "mainTopic": "Robotics",
+      "skillList": [
+        {
+          "name": "ROS",
+          "logo": "https://www.ros.org/imgs/logo-white.png"
+        },
+        {
+          "name": "RViz",
+          "logo": ""
+        },
+        {
+          "name": "Gazebo",
+          "logo": "https://classic.gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png"
+        },
+        {
+          "name": "Path-planning",
+          "logo": ""
+        },
+        {
+          "name": "SLAM",
+          "logo": ""
+        },
+        {
+          "name": "GTSAM",
+          "logo": ""
+        },
+        {
+          "name": "Reinforcement Learning",
+          "logo": ""
+        },
+        {
+          "name": "HRI",
+          "logo": ""
+        },
+        {
+          "name": "OpenAI",
+          "logo": ""
+        },
+        {
+          "name": "LfD",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "mainTopic": "Machine Learning",
+      "skillList": [
+        {
+          "name": "Scikit-learn",
+          "logo": ""
+        },
+        {
+          "name": "OpenCV",
+          "logo": ""
+        },
+        {
+          "name": "PyTorch",
+          "logo": ""
+        },
+        {
+          "name": "Keras",
+          "logo": ""
+        },
+        {
+          "name": "TensorFlow",
+          "logo": ""
+        },
+        {
+          "name": "NLP",
+          "logo": ""
+        },
+        {
+          "name": "Neural Networks",
+          "logo": ""
+        },
+        {
+          "name": "Classification",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "mainTopic": "Programming",
+      "skillList": [
+        {
+          "name": "Java",
+          "logo": ""
+        },
+        {
+          "name": "Mathematica",
+          "logo": ""
+        },
+        {
+          "name": "C",
+          "logo": ""
+        },
+        {
+          "name": "C++",
+          "logo": ""
+        },
+        {
+          "name": "Python",
+          "logo": ""
+        },
+        {
+          "name": "R",
+          "logo": ""
+        },
+        {
+          "name": "SAS",
+          "logo": ""
+        },
+        {
+          "name": "MATLAB",
+          "logo": ""
+        },
+        {
+          "name": "HTML",
+          "logo": ""
+        },
+        {
+          "name": "CSS",
+          "logo": ""
+        },
+        {
+          "name": "JS",
+          "logo": ""
+        },
+        {
+          "name": "PHP",
+          "logo": ""
+        },
+        {
+          "name": "SQL",
+          "logo": ""
+        }
+      ]
+    },
+    {
+      "mainTopic": "Other",
+      "skillList": [
+        {
+          "name": "Docker",
+          "logo": ""
+        },
+        {
+          "name": "Kubernetes",
+          "logo": ""
+        },
+        {
+          "name": "E2E testing",
+          "logo": ""
+        },
+        {
+          "name": "JUnit",
+          "logo": ""
+        },
+        {
+          "name": "twistcli",
+          "logo": ""
+        },
+        {
+          "name": "Angular",
+          "logo": ""
+        },
+        {
+          "name": "Flutter",
+          "logo": ""
+        },
+        {
+          "name": "CAD",
+          "logo": ""
+        }
+      ]
+    }
+  ]
+}

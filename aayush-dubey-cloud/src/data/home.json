@@ -1,0 +1,13 @@
+{
+  "carouselDetails": [
+    {
+      "imgSrc": "/assets/img/profile.jpg"
+    },
+    {
+      "imgSrc": "/assets/img/grad.jpg"
+    },
+    {
+      "imgSrc": "/assets/img/award.jpg"
+    }
+  ]
+}

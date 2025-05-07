@@ -1,7 +1,6 @@
 #root {
-	max-width: 1280px;
-	margin: 0 auto;
-	padding: 2rem;
+	margin-bottom: 50px;
+	padding-bottom: 50px;
 	text-align: center;
 }
 
@@ -36,10 +35,29 @@
 	}
 }
 
-.card {
+/* .card {
 	padding: 2em;
-}
+} */
 
 .read-the-docs {
 	color: #888;
+}
+
+.navbar {
+	background: darkgoldenrod;
+}
+
+.nav-link {
+	color: inherit;
+}
+
+footer {
+	background-color: black;
+	color: white;
+}
+.socialIcons {
+	color: inherit;
+	padding-left: 15px;
+	padding-right: 15px;
+	display: inline-block !important;
 }
