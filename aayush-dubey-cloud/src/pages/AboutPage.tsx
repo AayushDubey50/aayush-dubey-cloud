@@ -7,10 +7,10 @@ import {
   // Dropdown,
   // DropdownButton,
   // ButtonGroup,
-  Button,
+  // Button,
   Figure,
   Row,
-  Placeholder,
+  // Placeholder,
   Stack,
 } from "react-bootstrap";
 
