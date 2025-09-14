@@ -87,6 +87,26 @@
     {
       "startDate": {
         "isPresent": false,
+        "month": 1,
+        "year": 2018
+      },
+      "endDate": {
+        "isPresent": false,
+        "month": 5,
+        "year": 2019
+      },
+      "type": "Part Time",
+      "location": "West Lafayette, IN",
+      "position": "Undergraduate Teaching Assistant (UTA)",
+      "company": "Purdue University - Department of Computer Science",
+      "description": [
+        "Graded students' work in laboratory room by examining commit histories and efficiency of scripts",
+        "Hosted office hours for students who have additional questions to pinpoint errors in their codesGrade"
+      ]
+    },
+    {
+      "startDate": {
+        "isPresent": false,
         "month": 5,
         "year": 2017
       },
@@ -139,7 +159,7 @@
       "position": "Undergraduate Research Assistant",
       "company": "Character Inventory",
       "description": [
-        " Developed website that conducts and analyzes survey answers using full-stack programs",
+        "Developed website that conducts and analyzes survey answers using full-stack programs",
         "Calculated character strengths and virtues scores for professionals and clients to self-evaluate"
       ]
     }

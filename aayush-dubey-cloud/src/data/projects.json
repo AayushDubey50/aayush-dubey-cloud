@@ -1,6 +1,42 @@
 {
   "projectsList": [
     {
+      "name": "Hand Grasp Planning",
+      "startDate": {
+        "isPresent": false,
+        "month": 7,
+        "year": 2025
+      },
+      "endDate": {
+        "isPresent": true,
+        "month": 12,
+        "year": 2025
+      },
+      "technologies": [
+        "Mathematica"
+      ],
+      "description": "Mathematica demonstration of a CAD prosthetic hand model utilizing forward and inverse kinematic motions to grasp an object, achieving force-closure constraints and dextrous manipulability.",
+      "link": "https://github.com/AayushDubey50/Hand-Kinematics-Manipulation"
+    },
+    {
+      "name": "Knowledge Based AI",
+      "startDate": {
+        "isPresent": false,
+        "month": 7,
+        "year": 2024
+      },
+      "endDate": {
+        "isPresent": true,
+        "month": 12,
+        "year": 2024
+      },
+      "technologies": [
+        "Mathematica"
+      ],
+      "description": "Implementation of AI-system using traditional AI principles that will be tested on the Wolfram Research knowledgebase to formulate accurate interpretations and solutions within a domain.",
+      "link": ""
+    },
+    {
       "name": "Mailbot Demonstration",
       "startDate": {
         "isPresent": false,
