@@ -1,0 +1,8 @@
+minimumReleaseAge: 12960 # 9 days
+minimumReleaseAgeStrict: true
+blockExoticSubdeps: true
+allowBuilds:
+    "@swc/core": true
+    esbuild: true
+    sharp: true
+    workerd: true

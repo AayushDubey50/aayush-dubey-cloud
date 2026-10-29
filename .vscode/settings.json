@@ -2,7 +2,6 @@
     "editor.formatOnSave": true,
     "editor.rulers": [121],
     "editor.tabSize": 4,
-    "prettier.tabWidth": 4,
     "[markdown]": {
         "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
         "rewrap.autoWrap.enabled": true
@@ -21,40 +20,23 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[json][jsonc][jsonl]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "prettier.trailingComma": "none",
-        "editor.tabSize": 4
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "evenBetterToml.taplo.configFile.path": ".taplo.toml",
     "[toml]": {
         "editor.defaultFormatter": "tamasfe.even-better-toml",
-        "editor.rulers": [80],
-        "editor.formatOnSave": true
+        "editor.rulers": [80]
     },
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/.DS_Store": true,
-        "**/Thumbs.db": true,
-        "**/.venv/": true,
         "**/node_modules/": true,
-        "**/.tanstack/": true,
+        "**/.wrangler": true,
         "**/dist/": true,
-        "**/routeTree.gen.ts": true,
         "**/.pnpm-store/": true
     },
-    "files.watcherExclude": {
-        "**/routeTree.gen.ts": true
-    },
     "search.exclude": {
-        "**/routeTree.gen.ts": true,
         "**/pnpm-lock.yaml": true
-    },
-    "files.readonlyInclude": {
-        "**/routeTree.gen.ts": true
     }
 }
