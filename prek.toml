@@ -1,0 +1,75 @@
+[[repos]]
+repo = "https://github.com/pre-commit/pre-commit-hooks"
+rev = "v6.0.0"
+
+[[repos.hooks]]
+id = "check-added-large-files"
+
+[[repos.hooks]]
+id = "check-yaml"
+args = ["--allow-multiple-documents"]
+
+[[repos.hooks]]
+id = "end-of-file-fixer"
+
+[[repos]]
+repo = "https://github.com/igorshubovych/markdownlint-cli"
+rev = "v0.48.0"
+
+[[repos.hooks]]
+id = "markdownlint"
+args = ["--config", ".markdownlint.jsonc"]
+
+[[repos]]
+repo = "https://github.com/ComPWA/taplo-pre-commit"
+rev = "v0.9.3"
+
+[[repos.hooks]]
+id = "taplo-format"
+args = ["--config", ".taplo.toml"]
+
+[[repos]]
+repo = "local"
+
+[[repos.hooks]]
+id = "tsc"
+name = "tsc"
+entry = "pnpm exec tsc -p tsconfig.json --noEmit"
+language = "system"
+types_or = ["ts", "tsx"]
+pass_filenames = false
+
+[[repos]]
+repo = "local"
+
+[[repos.hooks]]
+id = "prettier"
+name = "prettier"
+entry = "node_modules/.bin/prettier --write --ignore-unknown"
+language = "system"
+types_or = [
+    "html",
+    "css",
+    "javascript",
+    "json",
+    "jsonc",
+    "jsx",
+    "scss",
+    "ts",
+    "tsx",
+    "yaml",
+]
+exclude = '(^|/)(dist/|pnpm-lock\.yaml$)'
+require_serial = true
+
+[[repos]]
+repo = "local"
+
+[[repos.hooks]]
+id = "eslint"
+name = "eslint"
+entry = "node_modules/.bin/eslint --fix --no-warn-ignored"
+language = "system"
+types_or = ["javascript", "jsx", "ts", "tsx"]
+exclude = '(^|/)dist/'
+require_serial = true

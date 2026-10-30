@@ -1,7 +1,17 @@
 # aayush-dubey-cloud
 
-```zsh
-cd aayush-dubey-cloud && npm run dev # localhost:5173 will have dev preview
+Personal website built with React, TypeScript, and Vite, hosted on Cloudflare Workers.
+
+## Setup
+
+From the repository root (with Homebrew installed):
+
+```sh
+brew install pnpm prek && pnpm install && prek install
 ```
 
-react + vite project
+## Development
+
+```sh
+pnpm dev
+```
